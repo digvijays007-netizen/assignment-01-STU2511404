@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "E1",
+    "name": "Smartphone X",
+    "category": "Electronics",
+    "price": 45000,
+    "brand": "TechBrand",
+    "specifications": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "battery": "5000mAh"
+    },
+    "features": ["5G", "OLED Display", "Fast Charging"]
+  },
+  {
+    "product_id": "C1",
+    "name": "Men's Jacket",
+    "category": "Clothing",
+    "price": 3500,
+    "brand": "FashionHub",
+    "sizes": ["S", "M", "L", "XL"],
+    "material": "Leather",
+    "colors": ["Black", "Brown"]
+  },
+  {
+    "product_id": "G1",
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 120,
+    "brand": "FarmFresh",
+    "expiry_date": "2024-12-20",
+    "nutritional_info": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "5g"
+    }
+  }
+]
